@@ -1,4 +1,4 @@
-<p align="center"><strong>Jobsy - Sistem Penjualan Hijab Online</strong></p>
+<p align="center"><strong>Sistem Penjualan Hijab Online</strong></p>
 
 <div align="center">
 
