@@ -28,9 +28,9 @@
 
 | Role         | Deskripsi                                                                 | Hak Akses Utama                                                                                 |
 |--------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Admin**    | Pengelola utama sistem                                                    | Mengelola pengguna(customer & pengguna),Melihat laporan penjualan toko               |
+| **Admin**    | Pengelola utama sistem                                                    | Semua Fitur Staf ,Kelola produk (tambah/edit/hapus),Kelola Kategori Produk, Kelola Staf(buat akun staf, edit/hapus,Kelola Customer(Lihat data customer, blokir akun, dll),Atur promosi diskon, Lihat laporan penjualan , kelola halaman informasi, kelola pengaturan website,Kelola Banner / promosi )             |
 | **Customer** | Pengguna akhir yang membeli produk                                        | Lihat produk, keranjang, checkout, kelola pesanan & profil                                     |
-| **Staf**     | Pengguna operasional terbatas                                             | Lihat produk, update stok, proses pesanan, update status pengiriman                           |
+| **Staf**     | Pengguna operasional terbatas                                             | Login ke dashboard staf, Lihat dan kelola pesanan masuk , Kelola stok produk ,Tambah edit produk(jika di izinkan admin, Melihat feedback dan ulasan dari pembeli)                           |
                              
 ## 📦 Struktur Database
 
